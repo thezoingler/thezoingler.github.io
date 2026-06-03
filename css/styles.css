@@ -5,11 +5,12 @@
 
 body {
     text-align: center;
-    font-family: Coolvetica;
-    font-weight: normal;
+    font-family: Coolvetica, Helvetica;
     background-color: rgb(25, 25, 25);;
     color: white;
 }
+
+h1 {font-weight: normal;}
 
 a:link {color: orange;}
 a:visited {color: orange;}
