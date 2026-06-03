@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Coolvetica;
+    src: url(./assets/fonts/coolveticareg.woff2);
+}
+
+body {
+    text-align: center;
+    font-family: Coolvetica;
+    font-style: normal;
+    background-color: rgb(25, 25, 25);;
+    color: white;
+}
+
+a:link {color: orange;}
+a:visited {color: orange;}
+a:hover {color: orangered;}
+a:active {color: rgb(255, 45, 0);}
