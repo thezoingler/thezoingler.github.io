@@ -1,0 +1,20 @@
+@import "styles.css";
+
+.presshere {
+    position: relative;
+    z-index: 2;
+    margin: auto;
+    rotate: 15deg;
+    top: 40px;
+    left: -45px;
+}
+
+.logo {
+    position: relative;
+    transition: width 0.5s, height 0.5s;
+}
+
+.logo:hover {
+    width: 463px;
+    height: 419px;
+}
