@@ -12,9 +12,11 @@
 .logo {
     position: relative;
     transition: width 0.5s, height 0.5s;
+    width: 30%;
+    height: 30%;
 }
 
 .logo:hover {
-    width: 463px;
-    height: 419px;
+    width: 31%;
+    height: 31%;
 }
