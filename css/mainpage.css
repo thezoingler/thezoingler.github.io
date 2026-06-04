@@ -19,8 +19,11 @@
 .logo:hover {
     width: 463px;
     height: 419px;
+<<<<<<< HEAD
 }
 
 h1 {
     margin-top: 0px;
+=======
+>>>>>>> ee9b265 (Fixed window resizing shrinking the logo image on main page)
 }
